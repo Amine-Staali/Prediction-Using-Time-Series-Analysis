@@ -34,7 +34,7 @@ The dataset used for this project includes historical weather data with features
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Amine-Staali/Prediction-Using-Time-Series-Analysis.git
    ```
 2. **Install Dependencies**:
    ```bash
