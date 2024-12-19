@@ -1,0 +1,16 @@
+name: weather_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python= 3.10.12
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - mlflow
+  - xgboost
+  - pip
+  - pip:
+      - mlflow
