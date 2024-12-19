@@ -2,7 +2,7 @@
 This project demonstrates the use of time series analysis to predict weather conditions. It utilizes Python for data processing, feature engineering, and machine learning model implementation, focusing on predicting temperature and weather trends based on historical data.
 
 ## Features
-
+ 
 - **Data Preprocessing**: Handles missing values, performs feature extraction, and ensures data is ready for model training.
 - **Exploratory Data Analysis (EDA)**: Visualizes seasonal patterns, trends, and anomalies in the dataset using tools like Matplotlib and Seaborn.
 - **Model Implementation**:
