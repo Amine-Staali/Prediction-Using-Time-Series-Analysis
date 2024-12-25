@@ -6,8 +6,7 @@ This project demonstrates the use of time series analysis to predict weather con
 - **Data Preprocessing**: Handles missing values, performs feature extraction, and ensures data is ready for model training.
 - **Exploratory Data Analysis (EDA)**: Visualizes seasonal patterns, trends, and anomalies in the dataset using tools like Matplotlib and Seaborn.
 - **Model Implementation**:
-  - ARIMA: For univariate time series analysis.
-  - LSTM: For capturing complex temporal dependencies in multivariate data.
+  - REGRESSION Models
 - **Performance Evaluation**: Evaluates models using metrics such as RMSE, MAE, and R-squared.
 - **Visualization**: Presents results with clear and intuitive graphs to interpret model performance.
 
